@@ -1,0 +1,220 @@
+pydev debugger: process 22675 is connecting
+
+T =  <Implementation.src.CSVDataTable.CSVDataTable object at 0x10ce7c4e0>
+T2 =  <Implementation.src.CSVDataTable.CSVDataTable object at 0x10ce5c2e8>
+DEBUG:root:Swapping tables
+DEBUG:root:Before pushdown, scan rows = 19370
+DEBUG:root:After pushdown, scan rows = 2
+Result =  <Implementation.src.CSVDataTable.CSVDataTable object at 0x141a5ee80>
+All rows =  {
+  "2": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1939",
+    "stint": "1",
+    "H": "185",
+    "AB": "565"
+  },
+  "3": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1940",
+    "stint": "1",
+    "H": "193",
+    "AB": "561"
+  },
+  "4": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1941",
+    "stint": "1",
+    "H": "185",
+    "AB": "456"
+  },
+  "5": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1942",
+    "stint": "1",
+    "H": "186",
+    "AB": "522"
+  },
+  "6": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1946",
+    "stint": "1",
+    "H": "176",
+    "AB": "514"
+  },
+  "7": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1947",
+    "stint": "1",
+    "H": "181",
+    "AB": "528"
+  },
+  "8": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1948",
+    "stint": "1",
+    "H": "188",
+    "AB": "509"
+  },
+  "9": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1949",
+    "stint": "1",
+    "H": "194",
+    "AB": "566"
+  },
+  "10": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1950",
+    "stint": "1",
+    "H": "106",
+    "AB": "334"
+  },
+  "11": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1951",
+    "stint": "1",
+    "H": "169",
+    "AB": "531"
+  },
+  "12": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1952",
+    "stint": "1",
+    "H": "4",
+    "AB": "10"
+  },
+  "13": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1953",
+    "stint": "1",
+    "H": "37",
+    "AB": "91"
+  },
+  "14": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1954",
+    "stint": "1",
+    "H": "133",
+    "AB": "386"
+  },
+  "15": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1955",
+    "stint": "1",
+    "H": "114",
+    "AB": "320"
+  },
+  "16": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1956",
+    "stint": "1",
+    "H": "138",
+    "AB": "400"
+  },
+  "17": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1957",
+    "stint": "1",
+    "H": "163",
+    "AB": "420"
+  },
+  "18": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1958",
+    "stint": "1",
+    "H": "135",
+    "AB": "411"
+  },
+  "19": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1959",
+    "stint": "1",
+    "H": "69",
+    "AB": "272"
+  },
+  "20": {
+    "playerID": "willite01",
+    "nameLast": "Williams",
+    "nameFirst": "Ted",
+    "teamID": "BOS",
+    "yearID": "1960",
+    "stint": "1",
+    "H": "98",
+    "AB": "310"
+  },
+  "21": {
+    "playerID": "willitr01",
+    "nameLast": "Williams",
+    "nameFirst": "Trevor",
+    "teamID": "PIT",
+    "yearID": "2016",
+    "stint": "1",
+    "H": "0",
+    "AB": "1"
+  },
+  "22": {
+    "playerID": "willitr01",
+    "nameLast": "Williams",
+    "nameFirst": "Trevor",
+    "teamID": "PIT",
+    "yearID": "2017",
+    "stint": "1",
+    "H": "2",
+    "AB": "41"
+  }
+}

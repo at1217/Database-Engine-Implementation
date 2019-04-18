@@ -1,0 +1,10 @@
+pydev debugger: process 17951 is connecting
+
+result <Implementation.src.CSVDataTable.CSVDataTable object at 0x10ce7c550>
+{
+  "2": {
+    "nameLast": "Williams",
+    "nameFirst": "Ted"
+  }
+}
+Elapsed time =  0.08719015121459961
