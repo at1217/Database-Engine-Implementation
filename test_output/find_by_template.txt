@@ -1,7 +1,3 @@
-#Amon Tokoro
-#at3250
-
-
 pydev debugger: process 17951 is connecting
 
 result <Implementation.src.CSVDataTable.CSVDataTable object at 0x10ce7c550>

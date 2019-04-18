@@ -1,6 +1,2 @@
-#Amon Tokoro
-#at3250
-
-
 Deleted
 <Implementation.src.CSVDataTable.CSVDataTable object at 0x103dc8240>

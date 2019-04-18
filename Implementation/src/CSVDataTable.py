@@ -1,6 +1,3 @@
-#Amon Tokoro
-#at3250
-
 import json
 import csv
 import copy
