@@ -1,6 +1,5 @@
-# W4111-HW3
+# Database Engine Implementation
 #Amon Tokoro
-#UNI: at3250
 
-I have received a homework extension from Prof. Ferguson in advance 
-due to the table tennis nationals in North Carolina during Apr.11-Apr.15. 
+This project is for W4111 Introduction to Databases taught by Donald Ferguson in Spring 2019.
+The purpose of this project is to understand the query optimization and the implementation of indexes.
